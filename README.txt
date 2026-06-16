@@ -50,5 +50,8 @@ pandas, numpy, scikit-learn, xgboost,
 matplotlib, seaborn, shap, streamlit
 
 ================================================================
+<<<<<<< HEAD
 GitHub repository Link 
 https://github.com/mfahad-ai/telco-churn-project
+=======
+>>>>>>> 4cf93c0f3ff6ecbfdff7d931d51d8379d028d9c5
